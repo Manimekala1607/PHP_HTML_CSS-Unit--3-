@@ -1,0 +1,6 @@
+Project Name: Digital Outpass Management System
+Team Member: Priya
+Date: 2026-08-30
+Time: 08:06:48 AM
+Work Completed: Completed student registration, outpass application, approval process, and QR code verification.
+--------------------------
