@@ -1,0 +1,5 @@
+Name: Manimekala S
+Register Number: 24SBCS054
+Course: Computer Science
+Mark: 90
+
