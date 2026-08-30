@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: #FDF4FF;
+}
+
+.container {
+    width: 550px;
+    margin: 50px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 18px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    border-top: 8px solid #A855F7;
+}
+
+h2 {
+    text-align: center;
+    color: #7E22CE;
+}
+
+label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+    color: #444;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 12px;
+    margin-top: 6px;
+    border: 2px solid #D8B4FE;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    margin-top: 25px;
+    background: #A855F7;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+input[type="submit"]:hover {
+    background: #7E22CE;
+}
+
+.note {
+    color: #6B7280;
+    font-size: 14px;
+}
+
+.success {
+    text-align: center;
+    color: #16A34A;
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #E9D5FF;
+}
+
+th {
+    background: #C084FC;
+    color: white;
+    padding: 12px;
+}
+
+td {
+    padding: 12px;
+    background: #FAF5FF;
+}
+
+button {
+    background: #14B8A6;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0F766E;
+}
